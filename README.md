@@ -7,6 +7,7 @@ Sebastien Pavailler
 14/11/2022
 
 Key points
+
 • This project provides models to build a movie recommendation system based on user-movie ratings
 (grade out of 5).
 • The models include the effects of 4 different variables on rating with regularization for small sample
