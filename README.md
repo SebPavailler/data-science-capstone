@@ -2,8 +2,8 @@
 Repo to submit the Capstone project
 
 
-HarvardX PH125.9x - Data Science: Capstone
-Sebastien Pavailler
+HarvardX PH125.9x - Data Science: Capstone  
+Sebastien Pavailler  
 14/11/2022
 
 Key points:
