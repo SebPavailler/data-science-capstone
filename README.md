@@ -3,8 +3,8 @@ Repo to submit the Capstone project
 
 
 HarvardX PH125.9x - Data Science: Capstone
-\newline Sebastien Pavailler
-\newline 14/11/2022
+Sebastien Pavailler
+14/11/2022
 
 Key points:
 - This project provides models to build a movie recommendation system based on user-movie ratings
