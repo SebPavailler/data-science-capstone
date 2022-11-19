@@ -1,5 +1,5 @@
-# data-science-capstone
-Repo to submit the Capstone project
+# data-science-capstone-movielens
+Repo to submit the Capstone project Movielens
 
 
 HarvardX PH125.9x - Data Science: Capstone  
